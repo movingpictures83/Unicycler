@@ -1,0 +1,2 @@
+Prefix plugins/Unicycler/example
+Plugin Unicycler inputfile fastqfiles.txt outputfile Unicycler
